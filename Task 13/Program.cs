@@ -1,8 +1,11 @@
 ﻿Console.Clear();
-int number = new Random().Next(100,1000);
-Console.WriteLine($"Сгенерированное число {number}");
-int n1 = number % 100;
-if (n1 > 0)
-    Console.WriteLine(n1);
+Console.WriteLine("Введите Число ");
+int n = Convert.ToInt32(Console.ReadLine());
+int m = n;
+if (n < 100)
+    Console.WriteLine("третьей цифры нет");
 else 
-    Console.WriteLine("no");
+{
+    while(m > 999) m /= 10;
+    Console.WriteLine(m % 10);
+}
