@@ -1,0 +1,15 @@
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/-2-/Task 13/obj/Debug/net7.0/Task 13.csproj.AssemblyReference.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/-2-/Task 13/obj/Debug/net7.0/Task 13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/-2-/Task 13/obj/Debug/net7.0/Task 13.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/-2-/Task 13/obj/Debug/net7.0/Task 13.AssemblyInfo.cs
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/-2-/Task 13/obj/Debug/net7.0/Task 13.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/-2-/Task 13/bin/Debug/net7.0/Task 13
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/-2-/Task 13/bin/Debug/net7.0/Task 13.deps.json
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/-2-/Task 13/bin/Debug/net7.0/Task 13.runtimeconfig.json
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/-2-/Task 13/bin/Debug/net7.0/Task 13.dll
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/-2-/Task 13/bin/Debug/net7.0/Task 13.pdb
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/-2-/Task 13/obj/Debug/net7.0/Task 13.dll
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/-2-/Task 13/obj/Debug/net7.0/refint/Task 13.dll
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/-2-/Task 13/obj/Debug/net7.0/Task 13.pdb
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/-2-/Task 13/obj/Debug/net7.0/Task 13.genruntimeconfig.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/-2-/Task 13/obj/Debug/net7.0/ref/Task 13.dll
