@@ -1,0 +1,15 @@
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/-2-/Task 10/obj/Debug/net7.0/Task 10.csproj.AssemblyReference.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/-2-/Task 10/obj/Debug/net7.0/Task 10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/-2-/Task 10/obj/Debug/net7.0/Task 10.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/-2-/Task 10/obj/Debug/net7.0/Task 10.AssemblyInfo.cs
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/-2-/Task 10/obj/Debug/net7.0/Task 10.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/-2-/Task 10/bin/Debug/net7.0/Task 10
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/-2-/Task 10/bin/Debug/net7.0/Task 10.deps.json
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/-2-/Task 10/bin/Debug/net7.0/Task 10.runtimeconfig.json
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/-2-/Task 10/bin/Debug/net7.0/Task 10.dll
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/-2-/Task 10/bin/Debug/net7.0/Task 10.pdb
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/-2-/Task 10/obj/Debug/net7.0/Task 10.dll
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/-2-/Task 10/obj/Debug/net7.0/refint/Task 10.dll
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/-2-/Task 10/obj/Debug/net7.0/Task 10.pdb
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/-2-/Task 10/obj/Debug/net7.0/Task 10.genruntimeconfig.cache
+/Users/macbookpro/Desktop/ДЗ знакомство с С#/-2-/Task 10/obj/Debug/net7.0/ref/Task 10.dll
